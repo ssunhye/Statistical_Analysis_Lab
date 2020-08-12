@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://statistical-analysis-lab.github.io/"
+url: "https://statistical_analysis_lab.kwon/"
 enforce_ssl: www.pignu.co.kr
 title:  Statistical Analysis Lab # site's title
 description: "STA Lab Ajou university" # used by search engines
